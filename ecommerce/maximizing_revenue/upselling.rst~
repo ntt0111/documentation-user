@@ -9,12 +9,12 @@ In order to maximize your revenue, suggesting pricier alternative products is st
 
 To do so:
 
-* Select such *Suggested Products* in the *Sales* tab of the product detail form. 3 alternatives are fine! Don't publish too many otherwise your customers will be confused.
+* Select such *Alternative Products* in the *Sales* tab of the product detail form. 3 alternatives are fine! Don't publish too many otherwise your customers will be confused.
 
 .. image:: ./media/upsell.png
    :align: center
 
-* Turn on *Suggested Products* from the *Customize* menu of the product web page.
+* Turn on *Alternative Products* from the *Customize* menu of the product web page.
 
 .. image:: ./media/upsell_publish.png
    :align: center

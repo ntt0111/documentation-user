@@ -14,7 +14,7 @@ Most options are available in the *Customize* menu: display attributes, website 
 .. image:: ./media/shop_customize.png
    :align: center
 
-If you manage a B2B company, some options are tailored for you: list displaying, product description, Add to Cart (to populate a cart more quickly).
+If your customers use to buy several items at once, some options allow them to fill their cart straight from the catalog page: Add to Cart button, list displaying with product description. That way they don't need to open the description page of every single product to add them to cart.
 
 .. image:: ./media/shop_list.png
    :align: center

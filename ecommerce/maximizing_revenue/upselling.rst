@@ -1,5 +1,5 @@
 ============================
-How to configure upselling
+How to sell pricier product alternatives (upselling)
 ============================
 
 In order to maximize your revenue, suggesting pricier alternative products is strongly advised for basic items. That way, your customer will spend more time browsing your catalog.
