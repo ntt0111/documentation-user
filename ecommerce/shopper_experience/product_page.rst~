@@ -1,0 +1,17 @@
+============================
+How to Build a Product Page
+============================
+
+On the website click New Page in the top-right corner.
+
+Then click New Product and follow the blinking tips.
+The main elements of the Product page are shown here below. Click the hotspots to have further explanations and links to specific documentation. 
+
+.. image:: ./media/discount01.png
+   :align: center
+
+For product settings in the detail form (product type, taxes, etc.), see LINK (Sales doc).
+
+.. seealso::
+
+  * :doc:`overview`

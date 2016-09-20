@@ -1,0 +1,14 @@
+:banner: banners/seo.jpg
+
+=======
+Publish your website
+=======
+
+.. toctree::
+   :titlesonly:
+
+   publish/domain_name
+   publish/translate
+
+
+

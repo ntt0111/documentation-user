@@ -1,0 +1,14 @@
+=================
+Manage your pricing
+=================
+
+.. toctree::
+   :titlesonly:
+
+   prices/pricing
+   prices/currencies
+   ../../accounting/others/taxes/default_taxes
+   ../../accounting/others/taxes/application
+   ../../accounting/others/taxes/tax_included
+   ../../accounting/others/taxes/B2B_B2C
+

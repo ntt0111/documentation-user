@@ -1,0 +1,46 @@
+---------------------------------
+How to configure product variants
+---------------------------------
+
+Product variants are used to offer variations of the same product to your customers on the products page. For example, the customer chooses a T-shirt and then selects its size and color.
+
+.. image:: ./media/variants.png
+   :align: center
+
+To use them:
+1. Activate the 'Products can have several attributes, defining variants (Example: size, color,...)' option in Sales / Settings.
+2. Select a product from the Products list, go to the 'Variants' tab.
+3. Add as many attributes as you need from 3 different types: radio buttons, drop-down menu or color buttons. Each combination of attribute values is a product variant. That way you get variants as soon as there are at least 2 values for 1 attribute.
+
+.. image:: ./media/variants_setup.png
+   :align: center
+
+4. Access the configuration of every single variant from the template form.
+
+.. image:: ./media/variants_button.png
+   :align: center
+
+You can edit following data:
+- Picture (will update in real time on the website)
+- Barcode
+- Internal Reference
+- Volume
+- Weight
+If you don’t want a specific variant to be available on the website, simply uncheck ‘Active’.
+
+5. You can also set a specific public price per variant by clicking "Variant Prices" in the product detail form (action in top-left corner).
+
+.. image:: ./media/variant_prices_button.png
+   :align: center
+
+The Price Extra is added to the product price whenever the corresponding attribute value is selected.
+
+.. image:: ./media/variant_prices.png
+   :align: center
+
+.. image:: ./media/variant_prices_web.png
+   :align: center
+
+.. seealso::
+
+  * :doc:`overview`

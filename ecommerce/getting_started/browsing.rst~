@@ -1,0 +1,25 @@
+============================
+How to configure product overview / browsing
+============================
+
+All your sellable items can be browsed on the Shop page of your website.
+
+
+.. image:: ./media/shop.png
+   :align: center
+
+Most options are available in the ‘Customize’ menu.
+
+.. image:: ./media/shop_customize.png
+   :align: center
+
+If you manage a B2B company, some options are tailored for you:
+- List view & product description.
+- Add to Cart (allows to populate a cart more quickly).
+
+.. image:: ./media/shop_list.png
+   :align: center
+
+.. seealso::
+
+  * :doc:`overview`

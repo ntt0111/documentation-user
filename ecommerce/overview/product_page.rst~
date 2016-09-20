@@ -1,0 +1,33 @@
+============================
+How to build a product page
+============================
+
+On the website click 'New Page' in the top-right corner.
+
+Then click 'New Product' and follow the blinking tips.
+
+.. image:: ./media/create_product.png
+   :align: center
+
+Here are the main elements of the Product page:
+
+.. image:: ./media/product_page_tips.png
+   :align: center
+
+Most of those options can be made visible from the 'Customize' menu.
+
+.. image:: ./media/product_customize.png
+   :align: center
+
+See how to configure those features from here below.
+
+Product Attributes & Variants
+-----------------------------
+Offer variations of the same product to your customers on the products page. For example, the customer chooses a T-shirt and selects its size and color. See Documentation (clickable link)
+
+
+For product settings in the detail form (product type, taxes, etc.), see LINK (Sales doc).
+
+.. seealso::
+
+  * :doc:`overview`

@@ -1,0 +1,36 @@
+---------------------------------
+How to manage e-Commerce pricelists
+---------------------------------
+
+This section sheds some light on pricing features specific to e-Commerce. The *Pricelist* documentation is a pre-requisite (see :doc:`././sales/products_prices/prices/pricing`).
+
+Currency selector for e-Commerce
+================================
+
+Let your customers choose their own currency on your website.
+
+.. image:: ./media/website_pricelist_select.png
+   :align: center
+
+Create one *Website Pricelist* per currency in :menuselection:`Sales --> Settings --> Website Pricelists`. Select the related pricelist and check *Selectable*.
+
+.. image:: ./media/website_pricelists.png
+   :align: center
+
+
+Specific pricelist for e-Commerce (advanced)
+============================================
+If your online customers are a specific segment, you may want to give them a specific pricelist. To do so:
+
+* Find both *Public user* and *Template User* in :menuselection:`Contacts`. These are technical contacts so there are archived to not show up in your contacts list. To see them, press *Archived* in the search bar.
+
+.. image:: ./media/default_website_pricelist.png
+   :align: center
+
+.. note:: *Public user* is used for any visitor browsing your website without being logged in. *Template User* is used as contact template whenever a new customer portal account is created. 
+
+* Change the pricelist of those two contacts. Notice that each visitor category (anonymous vs registered) can get different pricelists. This can be an incentive for your customers to sign up!
+
+.. seealso::
+
+    * :doc:`././sales/products_prices/prices/pricing`
